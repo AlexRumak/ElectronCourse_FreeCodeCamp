@@ -1,13 +1,12 @@
 # README
 
+Following tutorial: https://youtu.be/fP-371MN0Ck?si=8x9msazHvvPmA2dC&t=3382
+
 ## Notes:
 IPC-bus: App and UI communicate via the IPC-Bus.
-
-
+preload.js: a bridge that allows the UI to communicate via the IPC-bus
 
 ## OLD: React + TypeScript + Vite
-
-Following tutorial: https://youtu.be/fP-371MN0Ck?si=3AuQScNJM6_uq8qb&t=2119
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
