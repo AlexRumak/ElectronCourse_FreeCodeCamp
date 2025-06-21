@@ -1,4 +1,11 @@
-# React + TypeScript + Vite
+# README
+
+## Notes:
+IPC-bus: App and UI communicate via the IPC-Bus.
+
+
+
+## OLD: React + TypeScript + Vite
 
 Following tutorial: https://youtu.be/fP-371MN0Ck?si=3AuQScNJM6_uq8qb&t=2119
 
@@ -9,7 +16,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+### Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
